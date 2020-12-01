@@ -1,4 +1,4 @@
 
-public class Spiral {
+public class Spiral implements Pattern {
 
 }

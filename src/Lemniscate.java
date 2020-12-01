@@ -1,4 +1,4 @@
 
-public class Lemniscate {
+public class Lemniscate implements Pattern {
 
 }
