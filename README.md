@@ -1,1 +1,1 @@
-# geometric-figures
+# Geometric Figures Generator
